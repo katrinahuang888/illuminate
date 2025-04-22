@@ -19,3 +19,8 @@ Creatively mediates common classroom dynamic issues.
 Connects traditional art-making practices with modern. technologies.
 Visualizes the emotions of the user in a gentle manner.
 Distance sensor (alters brightness) creates further opportunities for user agency.
+
+# our proposed solution
+As seen below, we are proposing a design that is visually aesthetic and impactful. We will solder individual colorful glass or plastic pieces to form an elliptical prism. The shape was chosen for its height and visibility. These bright colors may improve innovation and creativity during design discussions. The inner components include a light and audio that will light up and make a sound when the lamp is pressed on. The glass or plastic pieces will all light up when the lamp is pressed to capture the visual attention of team members while the light audio playing from the lamp will alert them to direct their attention to the individual.
+
+We believe a tangible approach is effective in addressing this problem as these products can function as an extension of the user. Today’s world is becoming increasingly virtual. And, some may have it tiresome or stressful to try and interject in meetings with their own body, such as speaking over others or raising their hands for an extended duration of time. By having a real and concrete object (rather than abstract or virtual) in front of every individual at a meeting, we give each individual equal power to interject themselves into a conversation, boosting their confidence and giving them a sense of value and impact within the group. 
