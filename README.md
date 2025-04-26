@@ -18,6 +18,8 @@ To use the TUI, press the right eye (right button) when you want to speak in lin
 # Credits & External Resources
 Created with Liora Jones and VV (Xue Qing) Chua. Special thanks to Orit Shaer, Zoe Mitchell, and Mary Calabro for their guidance and help in finding resources.
 
-[Arduino Plug and Make Kit Datasheet]([url](https://docs.arduino.cc/resources/datasheets/AKX00069-datasheet.pdf))
-[I2C Address Changer]([url](https://github.com/arduino-libraries/Modulino/blob/main/examples/Utilities/AddressChanger/AddressChanger.ino))
-[Arduino Plug and Make Kit Modulino Code Examples]([url](https://forum.digikey.com/)) 
+[Arduino Plug and Make Kit Datasheet](https://docs.arduino.cc/resources/datasheets/AKX00069-datasheet.pdf)
+
+[I2C Address Changer](https://github.com/arduino-libraries/Modulino/blob/main/examples/Utilities/AddressChanger/AddressChanger.ino)
+
+[Arduino Plug and Make Kit Modulino Code Examples](https://forum.digikey.com/) 
